@@ -3,6 +3,8 @@ Extractors for Graylog to parse OPNsense logs.
 
 Using [https://github.com/IRQ10/Graylog-OPNsense_Extractors](https://github.com/IRQ10/Graylog-OPNsense_Extractors) for firewall rule parsing.
 
+1. HAProxy Public Service Extractor
+
 ## Usage
 1. Open Graylog. Navigate to the input you wish to run the extractor on.
 2. Click on "Manage extractors". 
