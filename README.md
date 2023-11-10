@@ -1,7 +1,7 @@
 # Graylog-OPNsense_Extractors
 Extractors for Graylog to parse OPNsense logs.
 
-Using (https://github.com/IRQ10/Graylog-OPNsense_Extractors)
+Using [https://github.com/IRQ10/Graylog-OPNsense_Extractors](https://github.com/IRQ10/Graylog-OPNsense_Extractors) for firewall rule parsing.
 
 ## Usage
 1. Open Graylog. Navigate to the input you wish to run the extractor on.
